@@ -42,7 +42,7 @@ bias = 1.
 #**********************************************
 #                 First  layer
 #**********************************************
-print("learning of 1st layer")
+print("learning of the 1st layer")
 train_in = [
     [T, T, bias],
     [T, F, bias],
@@ -90,7 +90,7 @@ sess.close
 #                 Second  layer
 #**********************************************
 
-print("learning of 2nd layer")
+print("learning of the 2nd layer")
 
 train_in = [
     [F,F,bias],
