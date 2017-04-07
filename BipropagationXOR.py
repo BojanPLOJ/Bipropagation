@@ -16,7 +16,7 @@
 # one layer. So we take the additional layer
 # with two neurons, one neuron for each T.
 #
-#    out     inner
+#      out     inner
 #	F       F F
 #	T   ->  T F
 #	T       F T
