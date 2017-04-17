@@ -2,8 +2,9 @@
 #           B I P R O P A G A T I O N
 #
 # This is Demo App for Bipropagation algorithm
-# written by Bojan PLOJ. This new algorithm and
-# is much faster, much more accurate and much
+# written in TensorFlow 0.9 by Bojan PLOJ.
+# This new algorithm and is much faster,
+# much more accurate and much
 # more reliable than his predecessor -
 # Backpropagation algorithm.
 # Learning is done layer by layer. Before the
